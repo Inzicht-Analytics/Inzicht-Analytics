@@ -10,8 +10,10 @@ Western Cape, South Africa · working remotely · [Portfolio](https://inzicht-an
 
 | Project | What it shows |
 | --- | --- |
-| **[Feno](https://github.com/Inzicht-Analytics/feno-showcase)** · season diary app for fig and pomegranate growers | Product ownership end to end: field interviews, requirements, backlog, privacy and a live pilot, built with Claude as my daily partner |
-| **[Feno Ops](https://github.com/Inzicht-Analytics/feno-showcase#how-it-is-built)** · the exporter's side of Feno | Scoping with an export company's commercial and technical staff; harvest forecasts from grower data; growers choose what is shared |
+| **[Feno](https://github.com/Inzicht-Analytics/feno-showcase)** · an app for fig and pomegranate growers, in pilot | Product ownership end to end: field interviews, requirements, backlog, privacy and a live pilot, built with Claude as my daily partner |
+| ↳ **[Feno Diary](https://github.com/Inzicht-Analytics/feno-showcase#feno-diary)** | Growers log their season per block, offline in the orchard, in English and Afrikaans |
+| ↳ **[Feno Forecasting](https://github.com/Inzicht-Analytics/feno-showcase#feno-forecasting)** | Automatic weather and heat units per farm, and a harvest forecast per block: how much, when and which weeks |
+| ↳ **[Feno Ops](https://github.com/Inzicht-Analytics/feno-showcase#feno-ops)** | The exporter's planning view of farms that chose to share, scoped with an export company's commercial and technical staff |
 | **[Admin screen prototypes](https://inzicht-analytics.github.io/#prototypes)** · commission system | Clickable prototypes for non-technical users, with the data rules enforced and a developer view of every rule |
 | **[Portfolio](https://inzicht-analytics.github.io/)** · case studies | Private wealth platforms, a global CRM rebuild for Visa, HSBC and Coutts, and CX research for Altron Group |
 
