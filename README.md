@@ -1,39 +1,43 @@
-# Hi, I'm Belinda Kennedy 👋
+# Hi, I'm Belinda Kennedy
 
-**Senior Technical Business Analyst & Product Owner** — I help businesses
-untangle complex systems, translate messy requirements into working
-solutions, and ship things that actually get used.
+**Lead Technical Business Analyst and product owner, building with AI.** I turn what users and stakeholders need into clear user stories, tested releases and products people actually adopt.
 
-I've spent my career sitting at the intersection of business need and
-technical delivery — across fintech, wealth management, and travel/hospitality
-platforms — and I bring that same approach to any domain that needs someone
-who can speak both business and technical fluently.
-
-📍 Based in Western Cape, South Africa — working with clients remotely, globally
-🔗 [Portfolio](your-portfolio-url) · [LinkedIn](https://www.linkedin.com/in/belinda-kennedy-analyst/) · [Email](mailto:you@example.com)
+Western Cape, South Africa · working remotely · [Portfolio](https://inzicht-analytics.github.io/) · [LinkedIn](https://www.linkedin.com/in/belinda-kennedy-analyst/) · [Email](mailto:belinda.innovate@gmail.com)
 
 ---
 
-## What I do
+## Recent work
 
-- **Requirements & discovery** — turning ambiguous business problems into clear, actionable specs
-- **Systems & process analysis** — mapping how things actually work (and where they break)
-- **SQL & data investigation** — querying, validating, and making sense of data to support decisions
-- **UAT & QA coordination** — making sure what gets built is what was actually needed
-- **Stakeholder & delivery management** — Jira, sprint ceremonies, cross-functional alignment
-- **Emerging: AI Analyst work** — building AI/frontend skills to extend BA thinking into AI-enabled products
+| Project | What it shows |
+| --- | --- |
+| **[Feno](https://github.com/Inzicht-Analytics/feno-showcase)** · season diary app for fig and pomegranate growers | Product ownership end to end: field interviews, requirements, backlog, privacy and a live pilot, built with Claude as my daily partner |
+| **[Feno Ops](https://github.com/Inzicht-Analytics/feno-showcase#how-it-is-built)** · the exporter's side of Feno | Scoping with an export company's commercial and technical staff; harvest forecasts from grower data; growers choose what is shared |
+| **[Admin screen prototypes](https://inzicht-analytics.github.io/#prototypes)** · commission system | Clickable prototypes for non-technical users, with the data rules enforced and a developer view of every rule |
+| **[Portfolio](https://inzicht-analytics.github.io/)** · case studies | Private wealth platforms, a global CRM rebuild for Visa, HSBC and Coutts, and CX research for Altron Group |
 
-I'm domain-agnostic by design — I've worked fintech and wealth platforms,
-hospitality and travel, and I pick up new business contexts fast.
+### Feno in numbers
 
-## What's in this profile
+- 105 pull requests merged, 75 issues closed, 7 dated milestones
+- 580+ unit and browser tests and 28 database rule suites, run on every change
+- Works offline in the orchard, in English and Afrikaans, with privacy built into the database
 
-| Repo | What it shows |
-|---|---|
-| `portfolio-site` | My professional portfolio app — case studies, design, and an embedded AI assistant |
-| `case-study-*` | Real (sanitized) examples of BA/systems work — process diagrams, UAT plans, SQL |
-| *(more coming as I build them out)* | |
+## How I work with AI
+
+- **Claude, every day.** I write the requirements, rules and acceptance criteria; Claude helps build against them; tests decide what ships.
+- **10 custom Claude skills** I designed, including a product-manager partner and a full-stack developer.
+- **MCP connectors** to Vercel, Supabase, Sentry and Amplitude, so deploys, errors, data and usage are one conversation away.
+- **GitHub Actions** for tests, backups and keeping the project board in sync.
+
+## Experience
+
+- **Lead Technical Business Analyst, SecuritEase** · 2025 – present · private wealth platforms for Sanlam Private Wealth and a New Zealand client
+- **Technical Business Analyst, Ten Lifestyle Group** · 2022 – 2025 · global CRM rebuild for Visa, HSBC and Coutts · Employee of the Year 2024, technical
+- **Senior Researcher and Technical Consultant, DataNoble** · 2021 – 2022 · CX research and KPIs for Altron Group
+
+## Toolkit
+
+User stories · acceptance criteria · Gherkin · backlog prioritisation · UAT · SQL · PostgreSQL · REST APIs · Postman · Jira · Confluence · GitHub Projects · Salesforce · Miro · Claude · React and TypeScript (learning, Scrimba)
 
 ---
 
-*Currently based in South Africa · Open to remote consulting & analyst engagements*
+*Inzicht Analytics is the name I build and publish under. Open to remote roles.*
