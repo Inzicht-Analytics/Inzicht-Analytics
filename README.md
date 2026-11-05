@@ -32,7 +32,7 @@ Western Cape, South Africa · working remotely · [Portfolio](https://inzicht-an
 
 ## Experience
 
-- **Lead Technical Business Analyst, SecuritEase** · 2025 – present · private wealth platforms for Sanlam Private Wealth and a New Zealand client
+- **Lead Technical Business Analyst, SecuritEase** · 2025 – present · private wealth platforms for wealth managers in South Africa and New Zealand
 - **Technical Business Analyst, Ten Lifestyle Group** · 2022 – 2025 · global CRM rebuild for Visa, HSBC and Coutts · Employee of the Year 2024, technical
 - **Senior Researcher and Technical Consultant, DataNoble** · 2021 – 2022 · CX research and KPIs for Altron Group
 
